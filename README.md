@@ -4,6 +4,8 @@
 
 - <b>Microcomputers Practice (x86 architecture) </b>
   - [Praciting Microcomputers in C, C++](https://github.com/Jeremiahdev/microcomputer-practice)
+- <b>ESP32 Projects</b>
+  - [ESP32 IOT temperature sensor ](https://github.com/Jeremiahdev/esp32-websocket-sensor)
 <!--- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
